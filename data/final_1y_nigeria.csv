@@ -1,0 +1,24 @@
+Domain Code,Domain,Area Code,Area,Year Code,Year,Total Losses (1000 t),Fat supply quantity (g/capita/day)_Animal Products,Fat supply quantity (g/capita/day)_Grand Total,Fat supply quantity (g/capita/day)_Vegetal Products,Food supply (kcal/capita/day)_Animal Products,Food supply (kcal/capita/day)_Grand Total,Food supply (kcal/capita/day)_Vegetal Products,Protein supply quantity (g/capita/day)_Animal Products,Protein supply quantity (g/capita/day)_Grand Total,Protein supply quantity (g/capita/day)_Vegetal Products,Population (1000no),Total Losses (g/cap/day),Average dietary energy requirement (kcal/cap/day),Dietary energy supply used in the estimation of the prevalence of undernourishment (kcal/cap/day),Minimum dietary energy requirement  (kcal/cap/day),Number of obese adults (18 years and older) (million),Prevalence of obesity in the adult population (18 years and older) (percent)
+FBSH,"Food Balances (-2013, old methodology and population)",159,Nigeria,2000.0,2000,14227,5.16,59.57,54.41,81.0,2610.0,2529.0,7.2,58.88,51.68,122877.0,317.0,2180.0,2623.0,1693.0,2.9,4.7
+FBSH,"Food Balances (-2013, old methodology and population)",159,Nigeria,2001.0,2001,14155,5.58,62.38,56.81,89.0,2613.0,2523.0,8.18,58.28,50.1,126005.0,308.0,2179.0,2626.0,1692.0,3.2,5.1
+FBSH,"Food Balances (-2013, old methodology and population)",159,Nigeria,2002.0,2002,14773,5.78,63.22,57.44,91.0,2605.0,2514.0,8.16,58.94,50.79,129225.0,313.0,2178.0,2618.0,1692.0,3.5,5.4
+FBSH,"Food Balances (-2013, old methodology and population)",159,Nigeria,2003.0,2003,15575,5.58,63.81,58.23,90.0,2608.0,2518.0,8.23,59.26,51.04,132550.0,322.0,2176.0,2621.0,1691.0,3.9,5.8
+FBSH,"Food Balances (-2013, old methodology and population)",159,Nigeria,2004.0,2004,16675,5.79,64.85,59.06,94.0,2655.0,2561.0,8.6,60.54,51.95,135999.0,336.0,2174.0,2668.0,1689.0,4.2,6.1
+FBSH,"Food Balances (-2013, old methodology and population)",159,Nigeria,2005.0,2005,17628,5.72,66.72,61.01,93.0,2705.0,2612.0,8.67,62.16,53.48,139586.0,346.0,2172.0,2719.0,1688.0,4.6,6.5
+FBSH,"Food Balances (-2013, old methodology and population)",159,Nigeria,2006.0,2006,18785,5.87,67.54,61.67,99.0,2725.0,2626.0,9.52,63.3,53.78,143315.0,359.0,2170.0,2740.0,1687.0,5.0,6.9
+FBSH,"Food Balances (-2013, old methodology and population)",159,Nigeria,2007.0,2007,17176,6.6,65.9,59.29,113.0,2720.0,2606.0,10.89,64.43,53.54,147187.0,320.0,2168.0,2736.0,1686.0,5.3,7.2
+FBSH,"Food Balances (-2013, old methodology and population)",159,Nigeria,2008.0,2008,18548,5.98,65.12,59.14,100.0,2723.0,2623.0,9.87,63.65,53.79,151208.0,336.0,2167.0,2740.0,1685.0,5.7,7.5
+FBSH,"Food Balances (-2013, old methodology and population)",159,Nigeria,2009.0,2009,15852,5.92,57.61,51.69,99.0,2683.0,2584.0,9.44,64.02,54.59,155381.0,280.0,2166.0,2701.0,1684.0,6.1,7.8
+FBS,Food Balances (2010-),159,Nigeria,2010.0,2010,12737,6.15,55.09,48.94,99.0,2572.0,2473.0,9.66,64.05,54.39,160952.85,217.0,2165.0,2572.0,1684.0,6.5,8.1
+FBS,Food Balances (2010-),159,Nigeria,2011.0,2011,12061,6.23,55.17,48.94,100.0,2560.0,2460.0,9.73,63.2,53.47,165463.75,200.0,2165.0,2560.0,1684.0,6.9,8.4
+FBS,Food Balances (2010-),159,Nigeria,2012.0,2012,15477,5.77,55.88,50.11,93.0,2546.0,2453.0,8.99,62.85,53.86,170075.93,249.0,2166.0,2546.0,1685.0,7.3,8.7
+FBS,Food Balances (2010-),159,Nigeria,2013.0,2013,13878,5.99,54.12,48.13,95.0,2521.0,2426.0,9.18,61.91,52.72,174726.12,218.0,2167.0,2521.0,1685.0,7.7,8.9
+FBS,Food Balances (2010-),159,Nigeria,2014.0,2014,15056,6.4,58.74,52.34,100.0,2576.0,2476.0,9.48,63.13,53.66,179379.02,230.0,2169.0,2576.0,1687.0,8.2,9.2
+FBS,Food Balances (2010-),159,Nigeria,2015.0,2015,15373,5.9,57.6,51.71,93.0,2568.0,2475.0,8.68,61.73,53.05,183995.79,229.0,2171.0,2568.0,1688.0,8.7,9.5
+FBS,Food Balances (2010-),159,Nigeria,2016.0,2016,15810,5.47,56.76,51.29,85.0,2558.0,2473.0,7.96,62.36,54.4,188666.93,230.0,2174.0,2558.0,1690.0,9.2,9.9
+FBS,Food Balances (2010-),159,Nigeria,2017.0,2017,15731,5.41,59.66,54.25,84.0,2556.0,2472.0,7.81,63.36,55.55,193495.91,223.0,2177.0,2556.0,1693.0,9.8,10.2
+FBS,Food Balances (2010-),159,Nigeria,2018.0,2018,15689,5.44,58.15,52.71,84.0,2532.0,2448.0,7.66,62.65,54.98,198387.62,217.0,2196.0,2532.0,1707.0,10.5,10.6
+FBS,Food Balances (2010-),159,Nigeria,2019.0,2019,15030,5.08,57.55,52.47,79.0,2540.0,2461.0,7.4,61.3,53.89,203304.49,203.0,2199.0,2540.0,1709.0,11.2,11.0
+FBS,Food Balances (2010-),159,Nigeria,2020.0,2020,18079,5.13,57.95,52.82,80.0,2510.0,2430.0,7.43,60.15,52.72,208327.4,238.0,2203.0,2510.0,1711.0,11.9,11.4
+FBS,Food Balances (2010-),159,Nigeria,2021.0,2021,20398,5.63,57.97,52.34,84.0,2543.0,2458.0,7.25,60.17,52.92,213401.32,262.0,2206.0,2543.0,1714.0,12.8,11.9
+FBS,Food Balances (2010-),159,Nigeria,2022.0,2022,20750,5.07,57.05,51.99,77.0,2503.0,2426.0,6.99,58.73,51.74,218541.21,260.0,2210.0,2504.0,1716.0,13.6,12.4
