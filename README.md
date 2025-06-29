@@ -57,6 +57,11 @@ This study examined how national-level food losses are associated with key nutri
 
 - Food Loss =/ Food Scarcity: Ironically, food losses may signal abundance rather than scarcity in many systems. Policymakers must consider that reducing food waste may not automatically enhance food security unless underlying supply and distribution structures are also addressed.
 
+# Team 
+Aysun Aliosman <br>
+Spartak Tsakov <br>
+Valeria Nikolaeva <br>
+
 # References
 1 Hannah Ritchie (2022) - “What is undernourishment and how is it measured?” Published online at
 OurWorldinData.org. Retrieved from: &#39;https://ourworldindata.org/undernourishment-definition&#39; [Online
