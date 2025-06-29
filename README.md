@@ -23,6 +23,19 @@ Mediating Factor: Food Supply per Capita – The average food availability per p
 
 # Introduction
 
+Food supply remains unevenly distributed across the globe. As of 2022, an estimated 9.1% of the world’s population is undernourished, while 16.02% is classified as obese. These figures underscore a global paradox of coexisting food insecurity and overnutrition. Moreover, the average dietary energy supply, expressed as a percentage of the population’s required energy needs, varies significantly across regions, countries, and even within national borders. 
+
+Projections that the global population will reach 9.7 billion by 2050 raise pressing questions about how to ensure adequate food supply for all. In the context of limited natural resources, ongoing socio-economic development, and changing dietary preferences, particularly in developing countries, scientists and policymakers are increasingly examining strategies to meet future nutritional needs. One promising approach is to reduce food loss and waste, which currently account for approximately one-quarter of all calories produced worldwide.  Recovering these lost calories could potentially increase global food availability without the need for additional natural resources.
+
+However, food systems are highly complex, and such outcomes cannot be assumed. Any prediction about the effects of reducing food loss must be grounded in rigorous analysis that considers the interplay of multiple factors shaping food production, distribution, and consumption across different contexts.
+
+This study therefore aims to examine the relationship between food losses and three key nutrition indicators, with a focus on the potential mediating role of per capita food supply:
+	- Dietary Energy Adequacy – the average dietary energy supply as a percentage of the population’s required energy intake.
+	- Prevalence of Undernourishment – the proportion of the population consuming less than the minimum dietary energy requirement.
+	- Prevalence of Obesity – the share of the adult population classified as obese (BMI ≥ 30).
+ 
+The analysis draws on FAO data from a 20-year period for a sample of three countries, each representing a different global region and income level: one high-income (Germany), one middle-income (Nigeria), and one lower-middle-income country (Vietnam).
+
 # Approach
 
 1. Research: We researched the case.
@@ -35,4 +48,18 @@ Mediating Factor: Food Supply per Capita – The average food availability per p
 4. Data analysis: we've compared the distributions of the features for each country (Germany, Vietnam, Nigeria) via visualization. We've analyzed the results of the Mediation Analysis and models.
 
 # Conclusion  
-  
+
+# References
+1 Hannah Ritchie (2022) - “What is undernourishment and how is it measured?” Published online at
+OurWorldinData.org. Retrieved from: &#39;https://ourworldindata.org/undernourishment-definition&#39; [Online
+Resource]
+2 Hannah Ritchie (2022) - “What is obesity and how is it measured?” Published online at
+OurWorldinData.org. Retrieved from: &#39;https://ourworldindata.org/obesity-definition&#39; [Online Resource]
+3 Max Roser, Hannah Ritchie, and Pablo Rosado (2013) - “Food Supply” Published online at
+OurWorldinData.org. Retrieved from: &#39;https://ourworldindata.org/food-supply&#39; [Online Resource]
+4 Van Dijk, M., Morley, T., Rau, M. L., &amp; Saghai, Y. (2021). A meta-analysis of projected global food
+demand and population at risk of hunger for the period 2010–2050. Nature Food, 2(7), 494–501.
+doi:10.1038/s43016-021-00322-9
+5 Searchinger, T. et al. (2018). Creating a Sustainable Food Future—A Menu of Solutions to Feed Nearly
+10 Billion People by 2050. World Resources Institute.
+6. Todorova & Haralampiev (2024), “What Are the Impacts of Food Losses on Nutrition?”
