@@ -30,9 +30,9 @@ Projections that the global population will reach 9.7 billion by 2050 raise pres
 However, food systems are highly complex, and such outcomes cannot be assumed. Any prediction about the effects of reducing food loss must be grounded in rigorous analysis that considers the interplay of multiple factors shaping food production, distribution, and consumption across different contexts.
 
 This study therefore aims to examine the relationship between food losses and three key nutrition indicators, with a focus on the potential mediating role of per capita food supply:
-	- Dietary Energy Adequacy – the average dietary energy supply as a percentage of the population’s required energy intake.
-	- Prevalence of Undernourishment – the proportion of the population consuming less than the minimum dietary energy requirement.
-	- Prevalence of Obesity – the share of the adult population classified as obese (BMI ≥ 30).
+- Dietary Energy Adequacy – the average dietary energy supply as a percentage of the population’s required energy intake.
+- Prevalence of Undernourishment – the proportion of the population consuming less than the minimum dietary energy requirement.
+-  Prevalence of Obesity – the share of the adult population classified as obese (BMI ≥ 30).
  
 The analysis draws on FAO data from a 20-year period for a sample of three countries, each representing a different global region and income level: one high-income (Germany), one middle-income (Nigeria), and one lower-middle-income country (Vietnam).
 
@@ -48,6 +48,14 @@ The analysis draws on FAO data from a 20-year period for a sample of three count
 4. Data analysis: we've compared the distributions of the features for each country (Germany, Vietnam, Nigeria) via visualization. We've analyzed the results of the Mediation Analysis and models.
 
 # Conclusion  
+
+This study examined how national-level food losses are associated with key nutrition and food security outcomes across countries, with a particular focus on the mediating role of food supply per capita. Using FAOSTAT panel data and a structured mediation modeling approach, the analysis highlighted the complex and often counterintuitive relationships between food system inefficiencies and public health indicators, including dietary energy adequacy, undernourishment, and obesity.
+
+- Mediation Matters: Food supply per capita plays a role in mediating the relationship between food losses and nutrition indicators. Any interpretation of food waste effects should account for this mediating pathway.
+
+- Context-Specific Dynamics: The varied patterns across Vietnam, Nigeria, and Germany emphasize that the impact of food losses is not universal. Factors such as baseline food insecurity, dietary norms, and economic development modulate these effects.
+
+- Food Loss =/ Food Scarcity: Ironically, food losses may signal abundance rather than scarcity in many systems. Policymakers must consider that reducing food waste may not automatically enhance food security unless underlying supply and distribution structures are also addressed.
 
 # References
 1 Hannah Ritchie (2022) - “What is undernourishment and how is it measured?” Published online at
